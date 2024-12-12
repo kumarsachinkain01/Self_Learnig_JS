@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+div{
+    display: flex;
+    justify-content: center;
+    background-color: transparent;
+    padding: 10px;
+
+}
+button{
+    display: flex;
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: #21c026;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border: black 2px solid;
+    border-radius: 10px;
+}
